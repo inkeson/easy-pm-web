@@ -10,7 +10,7 @@ const router = createRouter({
 			children: [
 				{
 					path: '',
-					redirect: '/dashboard'
+					redirect: '/flow'
 				},
 				...apps
 			]

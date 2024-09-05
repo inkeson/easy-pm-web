@@ -2,7 +2,6 @@
 </script>
 
 <template lang="pug">
-a-button(type="primary") hello
 router-view
 </template>
 

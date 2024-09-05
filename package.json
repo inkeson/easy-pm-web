@@ -9,6 +9,7 @@
 		"preview": "vite preview"
 	},
 	"dependencies": {
+		"@antv/x6": "^2.18.1",
 		"@arco-design/web-vue": "^2.56.0",
 		"axios": "^1.7.2",
 		"dayjs": "^1.11.12",
